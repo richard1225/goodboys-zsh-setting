@@ -1,1 +1,0 @@
-# good boy zsh config
